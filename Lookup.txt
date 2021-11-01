@@ -1,0 +1,586 @@
+Item	 Lowest	VENDOR	GATE
+  One Year Anniversary	5000	Rares & Semi-Rares	FLAIRTAMER 2015 2127
+a battle commendation	11000	Battle Commendations	COR POR 1553 1439
+a blessed codex of fencing	70000	Balls,Codex,Chain	COR POR 1553 1439
+a blessed codex of macing	75000	RARES & MORE - 10/11	ARTHUR 863 1408
+a blessed codex of swords	69000	THE SCRIBBLER	REQUIES 1763 2350
+a blessed codex of wrestling	69000	THE SCRIBBLER	REQUIES 1763 2350
+a potion keg	600	Empty Kegs	ARTHUR 863 1408
+a potion keg: deadly poison	2500	poison, maps, arcane	GATER 3737 672
+a potion keg: explosion	3300	East India Trading	MERLIN 1621 3020
+a potion keg: greater agility	2600	GAgility Kegs	ARTHUR 863 1408
+a potion keg: greater cure	2369	CHEAP FOOD CORE KEG	KRISH 1564 1617
+a potion keg: greater explosion	3400	GExplosion Keg	ARTHUR 863 1408
+a potion keg: greater heal	2600	Gheal Kegs	ARTHUR 863 1408
+a potion keg: greater magic resistance	3300	East India Trading	MERLIN 1621 3020
+a potion keg: greater poison	2000	East India Trading	MERLIN 1621 3020
+a potion keg: greater strength	3000	Crafts	NOGATE1866 1878
+a potion keg: lesser poison	1999	Annabel	COR POR 1553 1439
+a potion keg: lethal poison	6500	poison, maps, arcane	GATER 3737 672
+a potion keg: poison	1900	Poison Kegs	ARTHUR 863 1408
+a potion keg: total refresh	2000	GRefresh Kegs	ARTHUR 863 1408
+a random spell hue deed	38000	Battle Commendations	COR POR 1553 1439
+a rune tome	45000	Balls,Codex,Chain	COR POR 1553 1439
+a shimmer spirit halloween treat basket	720000	SUPER RARE	KRISH 1564 1617
+a skill mastery orb	18500	Walmart Overstock	FLAIRTAMER 2015 2127
+a treat basket	40000	SUPER RARE	KRISH 1564 1617
+accurate elemental slaying battleaxe	600	Charming Vendor!	ICE 923 1482
+accurate vanquishing two-handed axe	13000	Zlodziej ZeSzczecina	MERLIN 1621 3020
+adeptly drawn fishing map	1000	CORES / RARES / ALL	GATER 3737 672
+adeptly drawn treasure map: level 3	30000	a regal pack llama	GATER 3737 672
+Aegis Keep	3000	7s Stash	KIPLET 3519 365
+aegis keep carpet dye	8000	MAPS and Lots a Shit	ARTHUR 863 1408
+aegis keep cloth	13333	LETS GOOO	THEVENDORBOT 3974 1183
+agapite order shield	3000	RESOURCE KING	KIPLET 3519 365
+agapite pickaxe	2000	RESOURCE KING	KIPLET 3519 365
+air aspect bolt bundle	12000	Fresh SQzD Lewt	GATER 3737 672
+Air Aspect Core	5000	JMART DISCOUNT GOODS	FLAIRTAMER 2015 2127
+Air Aspect Distillation	10000	Epics loot	AMERICAN PICKER 3208 340
+Air Aspect Extract	5000	The Scrambler	KIPLET 3519 365
+air aspect weapon oil	4000	Cores/Scrolls/Dyes	SORE 4039 472
+alchemy skill mastery scroll	7000	Cores/Scrolls/Dyes	SORE 4039 472
+an arcane scroll	1400	JMART DISCOUNT GOODS	FLAIRTAMER 2015 2127
+an unnamed medium ship	35000	Ingots and Coins	KIPLET 3519 365
+an unnamed small ship	25000	Ingots and Coins	KIPLET 3519 365
+animal lore skill mastery scroll	15000	The Scrambler	KIPLET 3519 365
+animal taming skill mastery scroll	20000	MAP COINS CRAFT SS	ARTHUR 863 1408
+arms lore skill mastery scroll	7500	ASPECT & SS	ARTHUR 863 1408
+Artisan Aspect Distillation	16000	ReignInBlood	KRISH 1564 1617
+Artisan Aspect Extract	9000	CORES / RARES / ALL	GATER 3737 672
+artisan aspect weapon oil	25000	Fresh SQzD Lewt	GATER 3737 672
+avarhide skinning map	24000	MAP COINS CRAFT SS	ARTHUR 863 1408
+avarwood board	1500	Go Fish!	ARTHUR 863 1408
+backpack	2499	Leather Armor	ARTHUR 863 1408
+bag	575	Regular Leather Suit	GATER 3737 672
+begging skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+blacksmithy skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+blank map	20	ARROWS/BOLTS/BULK	KRISH 1564 1617
+blank scroll	500	BULK REGS & SCROLLS	ICE 923 1482
+blood aspect bolt bundle	8000	Cores Etc...	REQUIES 1763 2350
+blood aspect cloth	10000	MAPS and Lots a Shit	ARTHUR 863 1408
+Blood Aspect Core	4000	Scrolls and Cores	FLAIRTAMER 2015 2127
+Blood Aspect Distillation	8000	Extracts	SORE 4039 472
+Blood Aspect Extract	5000	shimmer cloth & more	FLAIRTAMER 2015 2127
+blood aspect weapon oil	10000	Random Shiats	THEVENDORBOT 3974 1183
+board	22500	*Logs*SS*Cores*Misc	ARTHUR 863 1408
+book of chivalry	9999	10/21	ICE 923 1482
+book of necromancy	8888	cheap book	ARTHUR 863 1408
+bottle commodity	3500	GAgility Kegs	ARTHUR 863 1408
+bronze carpet dye	12000	Articles of Intrigue	KRISH 1564 1617
+bronze hair dye	30000	PINK RARES	COR POR 1553 1439
+bronze hatchet	950	RESOURCE KING	KIPLET 3519 365
+bronze pickaxe	950	RESOURCE KING	KIPLET 3519 365
+bronze shovel	950	RESOURCE KING	KIPLET 3519 365
+bronze skinning knife	950	RESOURCE KING	KIPLET 3519 365
+bronzehide commodity	24999	LEATHER BEST PRICE	COR POR 1553 1439
+bronzehide skinning map	2000	CORES / RARES / ALL	GATER 3737 672
+bronzewood board	30	Materials	NOGATE1866 1878
+bronzewood commodity	75000	The Scrambler	KIPLET 3519 365
+bronzewood lumber map	39999	CHEAP LOOT PREV	COR POR 1553 1439
+Cambria	15000	Articles of Intrigue	KRISH 1564 1617
+camping skill mastery scroll	7000	CORES / RARES / ALL	GATER 3737 672
+carpentry skill mastery scroll	7500	Scrolls and Cores	FLAIRTAMER 2015 2127
+cartography skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+cavernam carpet dye	3000	The Scrambler	KIPLET 3519 365
+cavernam facial hair dye	250000	Backward Betty's	SORE 4039 472
+cavernam shield and quiver dye	3000	7s Stash	KIPLET 3519 365
+chivalry skill mastery scroll	22000	Scrolls and Cores	FLAIRTAMER 2015 2127
+cleverly drawn fishing map	1000	CORES / RARES / ALL	GATER 3737 672
+cleverly drawn treasure map: level 4	37999	CHEAP LOOT PREV	COR POR 1553 1439
+Command Aspect Core	55000	Random Shiats	THEVENDORBOT 3974 1183
+Command Aspect Distillation	17000	ReignInBlood	KRISH 1564 1617
+Command Aspect Extract	14000	CORES / RARES / ALL	GATER 3737 672
+cooking skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+copperhide commodity	18999	LEATHER BEST PRICE	COR POR 1553 1439
+copperhide skinning map	1000	BillysWarez 10/30/21	ICE 923 1482
+copperwood board	20	Materials	NOGATE1866 1878
+copperwood commodity	50000	The Scrambler	KIPLET 3519 365
+dark blood carpet dye	10000	The Scrambler	KIPLET 3519 365
+dark blood hair dye	150000	BillysWarez 10/30/21	ICE 923 1482
+dark blueberry carpet dye	4999	Annabel	COR POR 1553 1439
+dark blueberry cloth	12000	DUNGEON JUICE	GATER 3737 672
+dark coffee furniture dye	100000	Aspect / SS / Rares	KRISH 1564 1617
+dark crimson carpet dye	5000	DUNGEON JUICE	GATER 3737 672
+dark crimson cloth	10000	Cores-SS	KRISH 1564 1617
+dark crimson hair dye	200000	Donka Trading	ICE 923 1482
+dark crimson shield and quiver dye: 5	25000	LETS GOOO	THEVENDORBOT 3974 1183
+dark denim carpet dye	3500	GOOD STuff	ARTHUR 863 1408
+dark denim cloth	20000	Battle Commendations	COR POR 1553 1439
+dark denim furniture dye	50000	SUPER RARE	KRISH 1564 1617
+dark forest carpet dye	5000	Rares & Wares	ARTHUR 863 1408
+dark forest hair dye	85000	Random Shiats	THEVENDORBOT 3974 1183
+dark jam cloth	100000	DUNGEON JUICE	GATER 3737 672
+dark peacock carpet dye	5000	DUNGEON JUICE	GATER 3737 672
+dark peacock cloth	25000	Donofthedead	NOGATE1524 1854
+dark peacock cloth shoes	55000	AlwaysBelowMarket	SORE 4039 472
+dark rust carpet dye	10000	Marcia	ICE 923 1482
+dark rust cloth	15000	Cores+Kegs+Rares+Wep	ARTHUR 863 1408
+dark salmon carpet dye	10000	Marcia	ICE 923 1482
+dark salmon cloth	10000	Cores-SS	KRISH 1564 1617
+dark salmon facial hair dye	80000	LETS GOOO	THEVENDORBOT 3974 1183
+dark salmon hair dye	85000	Random Shiats	THEVENDORBOT 3974 1183
+dark salmon shield and quiver dye	10000	*Logs*SS*Cores*Misc	ARTHUR 863 1408
+Death Aspect Core	13999	CHEAP LOOT PREV	COR POR 1553 1439
+Death Aspect Extract	23000	Jerome Powell	NOGATE1866 1878
+Description: - Cheap Recalls Savings in Bulk!	5750	Recall Marks Inviz	THEVENDORBOT 3974 1183
+Description: - SALE!  Save in Bulk!	5500	Recall Marks Inviz	THEVENDORBOT 3974 1183
+Description: 100 SKILL SCROLLS @7000 per	700000	HonestlyPriced Goods	COR POR 1553 1439
+Description: 100 SS @ 7000 per	700000	Quality Goods	KRISH 1564 1617
+Description: 20 Surpassing spellbooks	30000	MAGIC BOOKS INST WEP	ARTHUR 863 1408
+Description: 5x Ship Repair Kit	3200	Ship Stuff	ARTHUR 863 1408
+Description: agapite platemail set	15000	EXCLUSIVE DEALS	ARTHUR 863 1408
+Description: All Spell 1 - 6 + Mass Dispell	7500	Ashley J Williams	THEVENDORBOT 3974 1183
+Description: Boards	10000	Materials	NOGATE1866 1878
+Description: book of necromancy	37500	Cores/Distills/Foci	SORE 4039 472
+Description: Chain	1111	Chain/Plate/Weapons	KRISH 1564 1617
+Description: Chain-	1111	Chain/Plate/Weapons	KRISH 1564 1617
+Description: Chiv SS	50000	CORES/EXTRACTS/SS	COR POR 1553 1439
+Description: Copper Platemail Suit	6000	RESOURCE KING	KIPLET 3519 365
+Description: d	1000	PINK RARES	COR POR 1553 1439
+Description: Display	30000	Check it out	ICE 923 1482
+Description: f	6000	PINK SUNDRIES	COR POR 1553 1439
+Description: FEMALE bronzehide leather armor	3500	Backward Betty's	SORE 4039 472
+Description: FEMALE goldenhide leather armor	5000	Backward Betty's	SORE 4039 472
+Description: FEMALE rosehide leather armor	7000	Backward Betty's	SORE 4039 472
+Description: FEMALE verehide leather armor	9000	Backward Betty's	SORE 4039 472
+Description: for deco	5000	AlwaysBelowMarket	SORE 4039 472
+Description: fortification platemail set	75000	EXCLUSIVE DEALS	ARTHUR 863 1408
+Description: get some snow on your face	230000	shimmer cloth & more	FLAIRTAMER 2015 2127
+Description: grassy scent!	5000	shimmer cloth & more	FLAIRTAMER 2015 2127
+Description: Holy Extract	30000	CORES/EXTRACTS/SS	COR POR 1553 1439
+Description: Invul Set (No helmet)	39999	FOOD/LeatherAR	ICE 923 1482
+Description: invulnerability ringmail set	32000	EXCLUSIVE DEALS	ARTHUR 863 1408
+Description: Leather Set	800	VET SUPPLIES & MRE	TOBANERN 1779 2392
+Description: MALE bronzehide leather armor	3500	Backward Betty's	SORE 4039 472
+Description: MALE goldenhide leather armor	5000	Backward Betty's	SORE 4039 472
+Description: MALE verehide leather armor	9000	Backward Betty's	SORE 4039 472
+Description: Old School	350000	RARES	THEVENDORBOT 3974 1183
+Description: Plate	1800	Chain/Plate/Weapons	KRISH 1564 1617
+Description: Poison SS	10000	CORES/EXTRACTS/SS	COR POR 1553 1439
+Description: put this one in the wash w the dark clothes by mistake	10000	shimmer cloth & more	FLAIRTAMER 2015 2127
+Description: pwnstarr gaming youtube	8900	Pwnstarr Gaming YT	KRISH 1564 1617
+Description: rose	6500	Leather Armor	ARTHUR 863 1408
+Description: Skill Mastery	10000	Aspekt $ SS $ Rares	NOGATE1866 1878
+Description: slightly grassier scent!	5001	shimmer cloth & more	FLAIRTAMER 2015 2127
+Description: Special & Rare Chests	10000	Aspekt $ SS $ Rares	NOGATE1866 1878
+Description: Taming SS	30000	CORES/EXTRACTS/SS	COR POR 1553 1439
+Description: this game has carpets??	2500	shimmer cloth & more	FLAIRTAMER 2015 2127
+Description: Trapped Boxes	9000	BOMB BOXES	THEVENDORBOT 3974 1183
+Description: Trappped Box	9000	BOMB BOXES	THEVENDORBOT 3974 1183
+Description: Vantroms Cheap bag of junk	500	COLOR INGOTS	REQUIES 1763 2350
+detect hidden skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+deviously drawn fishing map	1000	CORES / RARES / ALL	GATER 3737 672
+deviously drawn treasure map: level 5	55000	Bunzz's Worthy Goods	COR POR 1553 1439
+Discipline Aspect Core	5667	ALL KINDS OF GOODS	FLAIRTAMER 2015 2127
+Discipline Aspect Distillation	11000	Cores and More!!!	KRISH 1564 1617
+Discipline Aspect Extract	6000	JMART DISCOUNT GOODS	FLAIRTAMER 2015 2127
+discordance skill mastery scroll	7000	Farmer's Market	KRISH 1564 1617
+dull copper carpet dye	2000	Bunzz's Worthy Goods	COR POR 1553 1439
+dull copper ore map	3000	JMART DISCOUNT GOODS	FLAIRTAMER 2015 2127
+dullhide commodity	10000	Materials	NOGATE1866 1878
+dullhide skinning map	2000	Ayame	KRISH 1564 1617
+dullwood board	11	RESOURCE KING	KIPLET 3519 365
+dullwood commodity	27500	Materials	NOGATE1866 1878
+durable eminently accurate bow	975	CARPET DYE BLOWOUT	ICE 923 1482
+durable eminently potent magic spellbook	2000	LOW PRICES	FLAIRTAMER 2015 2127
+durable exceedingly accurate black staff	5000	BillysWarez 10/30/21	ICE 923 1482
+durable exceedingly accurate bow	5000	Aspekt $ SS $ Rares	NOGATE1866 1878
+durable exceedingly accurate quarter staff	2500	Farmer's Market	KRISH 1564 1617
+durable exceedingly melodious harp	2500	FIRE SALE	ICE 923 1482
+durable exceedingly potent magic spellbook	8000	Cores/Distills/Foci	SORE 4039 472
+durable exceedingly potent ruin magic spellbook	10000	Zlodziej ZeSzczecina	MERLIN 1621 3020
+durable fortification studded gorget	975	CARPET DYE BLOWOUT	ICE 923 1482
+durable invulnerability bone gorget	2500	AlwaysBelowMarket	SORE 4039 472
+durable invulnerability studded gorget	4000	CORES + MAGIC GEAR	ICE 923 1482
+durable might magic spellbook	1500	Always On Sale	COR POR 1553 1439
+durable potent might magic spellbook	1500	Always On Sale	COR POR 1553 1439
+durable power battleaxe	4000	**MAGIC ITEMS**	ICE 923 1482
+durable power heavy crossbow	5000	Rares, weapons &more	MERLIN 1621 3020
+durable power magic spellbook	5000	Loots!	COR POR 1553 1439
+durable supremely accurate battleaxe	7999	Annabel	COR POR 1553 1439
+durable supremely accurate crossbow	12999	CHEAP LOOT PREV	COR POR 1553 1439
+durable supremely melodious harp	7000	Rares, weapons &more	MERLIN 1621 3020
+durable supremely potent ruin magic spellbook	25000	Zlodziej ZeSzczecina	MERLIN 1621 3020
+durable surpassingly accurate lesser nature slaying heavy crossbow	1450	CARPET DYE BLOWOUT	ICE 923 1482
+durable surpassingly accurate might martial manual	20000	**MAGIC ITEMS**	ICE 923 1482
+durable surpassingly melodious harp of greater monstrous enticement	10000	a regal pack horse	GATER 3737 672
+durable surpassingly melodious harp of humanoid enticement	15000	a regal pack horse	GATER 3737 672
+durable vanquishing bow	10000	Anoki	THEVENDORBOT 3974 1183
+durable vanquishing magic spellbook	9999	AlwaysBelowMarket	SORE 4039 472
+dyeable carpet tile	20000	CHEAP LOOT PREV	COR POR 1553 1439
+Earth Aspect Core	2500	BULK LOOT 10/31	COR POR 1553 1439
+Earth Aspect Distillation	4000	Prev Coins and More!	GATER 3737 672
+Earth Aspect Extract	2500	AlwaysBelowMarket	SORE 4039 472
+Eldritch Aspect Core	11000	Scrolls and Cores	FLAIRTAMER 2015 2127
+Eldritch Aspect Distillation	10000	Extracts	SORE 4039 472
+Eldritch Aspect Extract	11000	SS/ESSENCE/CORES/EXT	NOGATE1494 1894
+eminently accurate bow	975	CARPET DYE BLOWOUT	ICE 923 1482
+eminently accurate heavy crossbow	975	CARPET DYE BLOWOUT	ICE 923 1482
+eminently accurate ruin martial manual	1500	AlwaysBelowMarket	SORE 4039 472
+eminently melodious harp	1500	Always On Sale	COR POR 1553 1439
+eminently melodious harp of lesser construct enticement	7500	a regal pack horse	GATER 3737 672
+eminently potent magic spellbook	3000	MAGIC ITEMS 10/20	ARTHUR 863 1408
+eminently potent nature slaying magic spellbook	29000	19.10.2021 CHEAPMISC	ICE 923 1482
+eminently potent ruin magic spellbook	6000	Charming Vendor!	ICE 923 1482
+exceedingly accurate battleaxe	2999	Annabel	COR POR 1553 1439
+exceedingly accurate bow	4000	Accuracy Weapons	SORE 4039 472
+exceedingly accurate crossbow	5000	Accuracy Weapons	SORE 4039 472
+exceedingly accurate heavy crossbow	4000	NICE VENDOR SHOP	COR POR 1553 1439
+exceedingly accurate lesser undead slaying two-handed axe	65000	**MAGIC ITEMS**	ICE 923 1482
+exceedingly accurate martial manual	5500	a regal pack llama	GATER 3737 672
+exceedingly accurate might heavy crossbow	75000	**MAGIC ITEMS**	ICE 923 1482
+exceedingly accurate quarter staff	4000	NICE VENDOR SHOP	COR POR 1553 1439
+exceedingly accurate ruin heavy crossbow	2500	Farmer's Market	KRISH 1564 1617
+exceedingly accurate shepherd's crook	4000	BillysWarez 10/30/21	ICE 923 1482
+exceedingly accurate two-handed axe	4000	NICE VENDOR SHOP	COR POR 1553 1439
+exceedingly melodious harp	1500	Always On Sale	COR POR 1553 1439
+exceedingly melodious harp of lesser beastial enticement	2500	FIRE SALE	ICE 923 1482
+exceedingly melodious harp of lesser elemental enticement	4000	BillysWarez 10/30/21	ICE 923 1482
+exceedingly melodious harp of lesser undead enticement	18000	**MAGIC ITEMS**	ICE 923 1482
+exceedingly potent lesser elemental slaying magic spellbook	20000	Charming Vendor!	ICE 923 1482
+exceedingly potent magic spellbook	6000	BillysWarez 10/30/21	ICE 923 1482
+exceedingly potent ruin magic spellbook	7999	CHEAP LOOT PREV	COR POR 1553 1439
+exceptional agapite hatchet	2500	10/15 - Ez Tools	ARTHUR 863 1408
+exceptional agapite pickaxe	2450	RESOURCE KING	KIPLET 3519 365
+exceptional agapite shovel	2500	Agapite Tools 2.5k	SORE 4039 472
+exceptional agapite skinning knife	2500	Agapite Tools 2.5k	SORE 4039 472
+exceptional agapite viking sword	2000	120 Weaponer	REQUIES 1763 2350
+exceptional agapite war mace	2000	120 Weaponer	REQUIES 1763 2350
+exceptional avarhide fishing net	19000	Go Fish!	ARTHUR 863 1408
+exceptional avarhide spellbook	35000	MartialManuals&Books	ARTHUR 863 1408
+exceptional avarite hatchet	22500	120 TINKER	ARTHUR 863 1408
+exceptional avarite pickaxe	22500	120 TINKER	ARTHUR 863 1408
+exceptional avarite shovel	22500	120 TINKER	ARTHUR 863 1408
+exceptional avarite skinning knife	22500	120 TINKER	ARTHUR 863 1408
+exceptional avarite viking sword	12000	AVARITE WEAPONS	ARTHUR 863 1408
+exceptional avarite war mace	12000	AVARITE WEAPONS	ARTHUR 863 1408
+exceptional avarwood bow	14000	BOWS & CROOKS	FLAIRTAMER 2015 2127
+exceptional avarwood crossbow	17000	BOWS & CROOKS	FLAIRTAMER 2015 2127
+exceptional avarwood heavy crossbow	20000	BOWS & CROOKS	FLAIRTAMER 2015 2127
+exceptional avarwood martial manual	35000	MartialManuals&Books	ARTHUR 863 1408
+exceptional avarwood quarter staff	16650	Cheap Carpentry	KRISH 1564 1617
+exceptional avarwood shepherd's crook	8999	CHEAP LOOT PREV	COR POR 1553 1439
+exceptional bronze hatchet	1350	RESOURCE KING	KIPLET 3519 365
+exceptional bronze pickaxe	600	Dad's Tinker&Tailor	ARTHUR 863 1408
+exceptional bronze shovel	999	10/15 - Ez Tools	ARTHUR 863 1408
+exceptional bronzehide spellbook	999	MartialManuals&Books	ARTHUR 863 1408
+exceptional bronzewood martial manual	999	MartialManuals&Books	ARTHUR 863 1408
+exceptional chaos shield	400	Chain/Plate/Weapons	KRISH 1564 1617
+exceptional copper pickaxe	400	10/15 - Ez Tools	ARTHUR 863 1408
+exceptional copper shovel	400	10/15 - Ez Tools	ARTHUR 863 1408
+exceptional copper war mace	850	RESOURCE KING	KIPLET 3519 365
+exceptional copperhide spellbook	2000	Donofthedead	NOGATE1524 1854
+exceptional copperwood shepherd's crook	999	cheap book	ARTHUR 863 1408
+exceptional dullhide spellbook	999	Mount Breeding Kit	KRISH 1564 1617
+exceptional gold hatchet	1500	10/15 - Ez Tools	ARTHUR 863 1408
+exceptional gold pickaxe	1800	Dad's Tinker&Tailor	ARTHUR 863 1408
+exceptional gold shovel	1500	10/15 - Ez Tools	ARTHUR 863 1408
+exceptional goldenhide fishing net	999	Go Fish!	ARTHUR 863 1408
+exceptional goldenhide spellbook	2000	MartialManuals&Books	ARTHUR 863 1408
+exceptional goldenwood bow	950	Cheap Carpentry	KRISH 1564 1617
+exceptional goldenwood crossbow	1150	Cheap Carpentry	KRISH 1564 1617
+exceptional goldenwood heavy crossbow	1450	Cheap Carpentry	KRISH 1564 1617
+exceptional goldenwood martial manual	2000	MartialManuals&Books	ARTHUR 863 1408
+exceptional goldenwood quarter staff	1050	Cheap Carpentry	KRISH 1564 1617
+exceptional goldenwood shepherd's crook	1050	Cheap Carpentry	KRISH 1564 1617
+exceptional order shield	400	Chain/Plate/Weapons	KRISH 1564 1617
+exceptional rosehide fishing net	2000	Go Fish!	ARTHUR 863 1408
+exceptional rosehide spellbook	4000	MartialManuals&Books	ARTHUR 863 1408
+exceptional rosewood bow	1500	Cheap Carpentry	KRISH 1564 1617
+exceptional rosewood container identification wand	6000	120 TINKER	ARTHUR 863 1408
+exceptional rosewood crossbow	1750	Cheap Carpentry	KRISH 1564 1617
+exceptional rosewood heavy crossbow	2250	Cheap Carpentry	KRISH 1564 1617
+exceptional rosewood martial manual	4000	MartialManuals&Books	ARTHUR 863 1408
+exceptional rosewood quarter staff	1650	Cheap Carpentry	KRISH 1564 1617
+exceptional rosewood shepherd's crook	1650	Cheap Carpentry	KRISH 1564 1617
+exceptional shadow iron shovel	250	10/15 - Ez Tools	ARTHUR 863 1408
+exceptional shadowhide spellbook	2000	Donofthedead	NOGATE1524 1854
+exceptional shepherd's crook	1000	Krash Landing	THEVENDORBOT 3974 1183
+exceptional spellbook	999	Recall Queen	ARTHUR 863 1408
+exceptional two-handed axe	188	Chain/Plate/Weapons	KRISH 1564 1617
+exceptional valehide fishing net	9000	Go Fish!	ARTHUR 863 1408
+exceptional valehide spellbook	7999	CHEAP LOOT PREV	COR POR 1553 1439
+exceptional valewood bow	4000	Cheapest 120 Carp	GATER 3737 672
+exceptional valewood crossbow	4000	Cheapest 120 Carp	GATER 3737 672
+exceptional valewood heavy crossbow	4000	Cheapest 120 Carp	GATER 3737 672
+exceptional valewood martial manual	15000	MartialManuals&Books	ARTHUR 863 1408
+exceptional valewood quarter staff	8050	Cheap Carpentry	KRISH 1564 1617
+exceptional valewood shepherd's crook	4000	Fresh SQzD Lewt	GATER 3737 672
+exceptional valorite hatchet	9999	120 TINKER	ARTHUR 863 1408
+exceptional valorite pickaxe	9999	120 TINKER	ARTHUR 863 1408
+exceptional valorite shovel	9999	120 TINKER	ARTHUR 863 1408
+exceptional valorite skinning knife	9999	120 TINKER	ARTHUR 863 1408
+exceptional valorite viking sword	10500	Fresh SQzD Lewt	GATER 3737 672
+exceptional valorite war mace	6500	120 Weaponer	REQUIES 1763 2350
+exceptional verehide fishing net	5750	Go Fish!	ARTHUR 863 1408
+exceptional verehide spellbook	7777	Donofthedead	NOGATE1524 1854
+exceptional verewood bow	3500	Cheapest 120 Carp	GATER 3737 672
+exceptional verewood crossbow	3500	Cheapest 120 Carp	GATER 3737 672
+exceptional verewood heavy crossbow	3500	Cheapest 120 Carp	GATER 3737 672
+exceptional verewood martial manual	9000	MartialManuals&Books	ARTHUR 863 1408
+exceptional verewood quarter staff	4050	Cheap Carpentry	KRISH 1564 1617
+exceptional verewood shepherd's crook	3500	Fresh SQzD Lewt	GATER 3737 672
+exceptional verite hatchet	5750	120 TINKER	ARTHUR 863 1408
+exceptional verite pickaxe	5750	120 TINKER	ARTHUR 863 1408
+exceptional verite shovel	5750	120 TINKER	ARTHUR 863 1408
+exceptional verite skinning knife	5750	120 TINKER	ARTHUR 863 1408
+exceptional verite two-handed axe	6000	VERITE WEAPONS	ARTHUR 863 1408
+exceptional verite viking sword	5000	VERITE WEAPONS	ARTHUR 863 1408
+exceptional verite war mace	3500	120 Weaponer	REQUIES 1763 2350
+exceptional war mace	188	Chain/Plate/Weapons	KRISH 1564 1617
+expertly drawn treasure map: level 2	14000	Mr. Cheap	KRISH 1564 1617
+Fire Aspect Core	7857	BULK LOOT 10/31	COR POR 1553 1439
+Fire Aspect Distillation	11500	ASPECT & SS	ARTHUR 863 1408
+Fire Aspect Extract	5000	BULK LOOT 10/31	COR POR 1553 1439
+fishing skill mastery scroll	7000	CORES / RARES / ALL	GATER 3737 672
+force magic spellbook	1500	Loots!	COR POR 1553 1439
+force martial manual	975	CARPET DYE BLOWOUT	ICE 923 1482
+forensic eval skill mastery scroll	7000	Epics loot	AMERICAN PICKER 3208 340
+fortification bone gorget	3000	MAGIC ITEMS 10/20	ARTHUR 863 1408
+fortification ringmail gorget	3000	MAGIC ITEMS 10/20	ARTHUR 863 1408
+fortified eminently accurate bow	6000	**MAGIC ITEMS**	ICE 923 1482
+fortune aspect carpet dye	6750	CARPET DYE BLOWOUT	ICE 923 1482
+fortune aspect cloth	15000	Brigit	ICE 923 1482
+Fortune Aspect Core	20000	CHEAP LOOT PREV	COR POR 1553 1439
+Fortune Aspect Distillation	19000	Prev Coins and More!	GATER 3737 672
+Fortune Aspect Extract	15000	LETS GOOO	THEVENDORBOT 3974 1183
+Galvin	13500	Kates Armor&Supplies	ICE 923 1482
+Gatekeeper	20000	FIRE SALE	ICE 923 1482
+gold hatchet	1650	RESOURCE KING	KIPLET 3519 365
+goldenhide commodity	49999	LEATHER BEST PRICE	COR POR 1553 1439
+goldenhide skinning map	10000	CORES / RARES / ALL	GATER 3737 672
+goldenwood board	30	The Scrambler	KIPLET 3519 365
+goldenwood bow	950	Cheap Carpentry	KRISH 1564 1617
+goldenwood lumber map	5999	CHEAP LOOT PREV	COR POR 1553 1439
+Great Sunken Serpents	3000	7s Stash	KIPLET 3519 365
+harp	999	Exceed/supreme book	COR POR 1553 1439
+hatchet	999	Skillscrolls	COR POR 1553 1439
+Heart of the Mountain	10000	FIRE SALE	ICE 923 1482
+herding skill mastery scroll	7000	BillysWarez 10/30/21	ICE 923 1482
+Holy Aspect Core	5500	Priced To Sell	SORE 4039 472
+Holy Aspect Distillation	17000	ASPECT & SS	ARTHUR 863 1408
+Holy Aspect Extract	999	HSB Walmart	FLAIRTAMER 2015 2127
+inferno carpet dye	3000	AlwaysBelowMarket	SORE 4039 472
+inferno cloth	13500	Always On Sale	COR POR 1553 1439
+inferno cloth shoes	110000	Core, Ex, SS, Cloth,	ARTHUR 863 1408
+inferno shield and quiver dye	7500	GOLD-AVARITE PLATE	ARTHUR 863 1408
+ingeniously drawn fishing map	1000	CORES / RARES / ALL	GATER 3737 672
+inscription skill mastery scroll	9999	CHEAP LOOT PREV	COR POR 1553 1439
+invulnerability ringmail gorget	4000	CORES + MAGIC GEAR	ICE 923 1482
+invulnerability studded gorget	5000	Scribe and Misc	TOBANERN 1779 2392
+item id skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+Jakesh	10000	FIRE SALE	ICE 923 1482
+King's Faire 2021	20000	Cores/SS/Cloth	COR POR 1553 1439
+legendarily drawn fishing map	8000	Donka Trading	ICE 923 1482
+legendarily drawn treasure map: level 8	5000	Articles of Intrigue	KRISH 1564 1617
+lesser paragon chest (druidic voyager)	425000	SUPER RARE	KRISH 1564 1617
+lesser paragon chest (lich magus)	500	Aspekt $ SS $ Rares	NOGATE1866 1878
+lesser paragon chest (mummy)	1900	19.10.2021 CHEAPMISC	ICE 923 1482
+lesser paragon chest (ossuarian huntress)	13999	CHEAP LOOT PREV	COR POR 1553 1439
+lesser paragon chest (ossuarian pyromancer)	14999	CHEAP LOOT PREV	COR POR 1553 1439
+lesser paragon chest (precursor guardian)	500	Aspekt $ SS $ Rares	NOGATE1866 1878
+lesser paragon chest (reanimated gladiator)	500	Aspekt $ SS $ Rares	NOGATE1866 1878
+lockpicking skill mastery scroll	7500	HSB Walmart	FLAIRTAMER 2015 2127
+locksmith training box	1000	*Logs*SS*Cores*Misc	ARTHUR 863 1408
+lollipop	40000	The Scrambler	KIPLET 3519 365
+lumberjacking skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+Lyric Aspect Core	12000	DUNGEON JUICE	GATER 3737 672
+Lyric Aspect Distillation	12000	Epics loot	AMERICAN PICKER 3208 340
+Lyric Aspect Extract	10000	Cores/Scrolls/Dyes	SORE 4039 472
+lyric aspect weapon oil	18000	Prev Coins and More!	GATER 3737 672
+massive exceedingly potent ruin magic spellbook	12000	Zlodziej ZeSzczecina	MERLIN 1621 3020
+meat shank feast	200	Leather Sets & Bulks	AMERICAN PICKER 3208 340
+metallic amber carpet dye	10000	Marcia	ICE 923 1482
+metallic amber cloth	20000	Aspect / SS / Rares	KRISH 1564 1617
+metallic cerulean carpet dye	5000	Aspect / SS / Rares	KRISH 1564 1617
+metallic cerulean cloth	17000	Rare Cloth	TOBANERN 1779 2392
+metallic chalk carpet dye	4000	SCROLLS, CORES, MISC	KRISH 1564 1617
+metallic chalk cloth	15000	MAPS and Lots a Shit	ARTHUR 863 1408
+metallic chalk cloth shoes	120000	Battle Commendations	COR POR 1553 1439
+metallic chalk headwear dye	99000	Annabel	COR POR 1553 1439
+metallic eggplant cloth	30000	LETS GOOO	THEVENDORBOT 3974 1183
+metallic eggplant hair dye	550000	SUPER RARE	KRISH 1564 1617
+metallic juniper carpet dye	6950	CARPET DYE BLOWOUT	ICE 923 1482
+metallic juniper cloth	10000	ocean&others	REQUIES 1763 2350
+metallic lemon-lime carpet dye	2000	PREV COINS	ARTHUR 863 1408
+metallic lemon-lime cloth	10000	Cores-SS	KRISH 1564 1617
+metallic lemon-lime cloth shoes	60000	Charming Vendor!	ICE 923 1482
+metallic lemon-lime furniture dye	50000	Donka Trading	ICE 923 1482
+metallic lemon-lime shield and quiver dye: 4	5000	Farmer's Market	KRISH 1564 1617
+metallic mint carpet dye	5000	Cheap Loot	NOGATE1604 1754
+metallic mint cloth	13000	PrevCoins + More	ARTHUR 863 1408
+metallic mint hair dye	75000	Mylee	TOBANERN 1779 2392
+metallic olive cloth	15000	Charming Vendor!	ICE 923 1482
+metallic olive shield and quiver dye	9000	Mylee	TOBANERN 1779 2392
+metallic olive shield and quiver dye: 4	17000	Fresh SQzD Lewt	GATER 3737 672
+metallic orange cloth	28000	GIGA LOOT	ARTHUR 863 1408
+metallic pewter carpet dye	4750	CARPET DYE BLOWOUT	ICE 923 1482
+metallic pewter cloth	12000	FIRE SALE	ICE 923 1482
+metallic pickle cloth	15000	Rares, weapons &more	MERLIN 1621 3020
+metallic pickle cloth shoes	65000	CORES / RARES / ALL	GATER 3737 672
+metallic pickle facial hair dye	55000	Ayame	KRISH 1564 1617
+metallic raspberry carpet dye	5000	Loots!	COR POR 1553 1439
+metallic raspberry cloth	14000	LETS GOOO	THEVENDORBOT 3974 1183
+metallic sapphire carpet dye	5000	DUNGEON JUICE	GATER 3737 672
+metallic sapphire cloth	12000	DUNGEON JUICE	GATER 3737 672
+metallic sky cloth	13000	Rare Cloth	TOBANERN 1779 2392
+metallic umber carpet dye	4750	CARPET DYE BLOWOUT	ICE 923 1482
+metallic umber cloth	17000	Rare Cloth	TOBANERN 1779 2392
+metallic wine carpet dye	3999	Annabel	COR POR 1553 1439
+metallic wine hair dye	80000	7s Stash	KIPLET 3519 365
+might greater construct slaying viking sword	35000	**MAGIC ITEMS**	ICE 923 1482
+might greater daemonic slaying magic spellbook	100000	**MAGIC ITEMS**	ICE 923 1482
+might humanoid slaying martial manual	50000	**MAGIC ITEMS**	ICE 923 1482
+might lesser humanoid slaying magic spellbook	10000	Cores Etc...	REQUIES 1763 2350
+might magic spellbook	1000	Always On Sale	COR POR 1553 1439
+mining skill mastery scroll	7500	Scrolls and Cores	FLAIRTAMER 2015 2127
+monster hunter shield and quiver dye	25000	Aspect / SS / Rares	KRISH 1564 1617
+monster hunter society random spell hue deed	100000	Previouss Prev Items	KRISH 1564 1617
+mount petram carpet dye	4750	CARPET DYE BLOWOUT	ICE 923 1482
+musicianship skill mastery scroll	9000	Scrolls and Cores	FLAIRTAMER 2015 2127
+necromancy skill mastery scroll	34999	CHEAP LOOT PREV	COR POR 1553 1439
+nusero carpet dye	3000	Balls,Codex,Chain	COR POR 1553 1439
+nusero cloth	6000	Priced To Sell	SORE 4039 472
+nusero cloth shoes	60000	Anoki	THEVENDORBOT 3974 1183
+nusero facial hair dye	35000	LOW PRICES	FLAIRTAMER 2015 2127
+nusero headwear dye	50000	RED RACA CHEAP WARES	ICE 923 1482
+nusero shield and quiver dye	10000	Brigit	ICE 923 1482
+Ossuary	3000	7s Stash	KIPLET 3519 365
+ossuary carpet dye	5000	Loots!	COR POR 1553 1439
+ossuary cloth	7000	FIRE SALE	ICE 923 1482
+ossuary headwear dye	99000	Annabel	COR POR 1553 1439
+ossuary shield and quiver dye: 5	5000	Loots!	COR POR 1553 1439
+peacemaking skill mastery scroll	7500	ASPECT & SS	ARTHUR 863 1408
+pickaxe	999	Skillscrolls	COR POR 1553 1439
+Pit Dragon	8000	a regal pack llama	GATER 3737 672
+plainly drawn treasure map: level 1	10000	TMAPS CHEAP	COR POR 1553 1439
+plant chemicals	1000	CHEAP LOOT PREV	COR POR 1553 1439
+platinum trap wire	80	Cores-SS	KRISH 1564 1617
+Poison Aspect Core	2500	Quality Goods	KRISH 1564 1617
+Poison Aspect Distillation	6000	Epics loot	AMERICAN PICKER 3208 340
+Poison Aspect Extract	5500	Carbuncle's Cores	GATER 3737 672
+poisoning skill mastery scroll	8000	Quality Goods	KRISH 1564 1617
+potent force magic spellbook	1500	Always On Sale	COR POR 1553 1439
+potent magic spellbook	1500	Always On Sale	COR POR 1553 1439
+potent might greater construct slaying magic spellbook	25000	**MAGIC ITEMS**	ICE 923 1482
+potent power magic spellbook	5000	Loots!	COR POR 1553 1439
+potent ruin magic spellbook	1500	Always On Sale	COR POR 1553 1439
+potent vanquishing magic spellbook	20000	Loots!	COR POR 1553 1439
+pouch	1200	Leather Sets & Bulks	AMERICAN PICKER 3208 340
+powder bubblegum carpet dye	60000	HAVE A MUFFIN	THEVENDORBOT 3974 1183
+powder bubblegum cloth	75000	Cores-SS	KRISH 1564 1617
+powder coral cloth	45000	Cores-SS	KRISH 1564 1617
+powder coral headwear dye	350000	MCD CORES LORE	ICE 923 1482
+powder cyan carpet dye	9999	Will Not Attk You	NOGATE1527 1811
+powder lemon cloth	80000	Priced To Sell	SORE 4039 472
+powder orchid carpet dye	7000	Cores/Scrolls/Dyes	SORE 4039 472
+powder peach cloth	38000	LETS GOOO	THEVENDORBOT 3974 1183
+powder peach facial hair dye	150000	LETS GOOO	THEVENDORBOT 3974 1183
+powder pistachio cloth	50000	Charming Vendor!	ICE 923 1482
+powder ruby cloth	55000	Rare Cloth	TOBANERN 1779 2392
+powder seafoam cloth	45000	Battle Commendations	COR POR 1553 1439
+powder spring carpet dye	7000	Cores/Scrolls/Dyes	SORE 4039 472
+powder spring cloth	45000	FIRE SALE	ICE 923 1482
+power bow	4000	Rares, weapons &more	MERLIN 1621 3020
+power crossbow	5000	Anoki	THEVENDORBOT 3974 1183
+power greater construct slaying magic spellbook	20000	Fresh SQzD Lewt	GATER 3737 672
+power heavy crossbow	5000	Anoki	THEVENDORBOT 3974 1183
+power lesser humanoid slaying viking sword	4950	CARPET DYE BLOWOUT	ICE 923 1482
+power magic spellbook	8000	**MAGIC ITEMS**	ICE 923 1482
+power shepherd's crook	3000	Anoki	THEVENDORBOT 3974 1183
+power viking sword	4000	Rares, weapons &more	MERLIN 1621 3020
+prevalia coins	15000	PREV COINS	KRISH 1564 1617
+provocation skill mastery scroll	7000	CORES / RARES / ALL	GATER 3737 672
+pulma carpet dye	5000	Aspect / SS / Rares	KRISH 1564 1617
+pulma cloth	18500	Mr. BENZ	NOGATE1604 1754
+recall scroll	10	Cores SS Recalls	GATER 3737 672
+remove trap skill mastery scroll	7000	CORES / RARES / ALL	GATER 3737 672
+research materials	26000	Random Shiats	THEVENDORBOT 3974 1183
+rosehide commodity	109999	LEATHER BEST PRICE	COR POR 1553 1439
+rosehide skinning map	5999	CHEAP LOOT PREV	COR POR 1553 1439
+rosewood board	70	Boards + TMaps	ARTHUR 863 1408
+rosewood lumber map	2222	cheap book	ARTHUR 863 1408
+royal red carpet dye	12000	Marcia	ICE 923 1482
+ruin magic spellbook	1000	Always On Sale	COR POR 1553 1439
+runebook	20500	Recall Queen	ARTHUR 863 1408
+runebook: Barely	22000	BookTomeEssenceFood	ARTHUR 863 1408
+salvaged crate	19000	19.10.2021 CHEAPMISC	ICE 923 1482
+seafarer league shield and quiver dye	25000	Aspect / SS / Rares	KRISH 1564 1617
+shadow aspect cloth	10000	MAPS and Lots a Shit	ARTHUR 863 1408
+Shadow Aspect Core	3500	Priced To Sell	SORE 4039 472
+Shadow Aspect Distillation	10000	Extracts	SORE 4039 472
+Shadow Aspect Extract	6000	ALL KINDS OF GOODS	FLAIRTAMER 2015 2127
+shadowhide commodity	17499	LEATHER BEST PRICE	COR POR 1553 1439
+shadowhide skinning map	1000	JMART DISCOUNT GOODS	FLAIRTAMER 2015 2127
+shadowspire cathedral carpet dye	7500	DUNGEON JUICE	GATER 3737 672
+shadowspire cathedral cloth	40000	Aspect / SS / Rares	KRISH 1564 1617
+shadowwood commodity	30000	Materials	NOGATE1866 1878
+shadowwood lumber map	3333	CHEAP LOOT PREV	COR POR 1553 1439
+shepherd's crook	999	Skillscrolls	COR POR 1553 1439
+shimmer gala cloth	50000	ASPECT/ Everything	KRISH 1564 1617
+shimmer nightfall cloth	20000	Scribe and more	ARTHUR 863 1408
+shimmer spirit cloth	50000	ASPECT/ Everything	KRISH 1564 1617
+shimmer tempest cloth	50000	ASPECT/ Everything	KRISH 1564 1617
+spellbook	999	Exceed/supreme book	COR POR 1553 1439
+spirit speak skill mastery scroll	9999	Skillscrolls	COR POR 1553 1439
+stacked potion keg: 10	5000	Empty Kegs	ARTHUR 863 1408
+stacked potion keg: 25	9500	KEGS	ICE 923 1482
+stealth skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+substantial exceedingly melodious harp	2500	FIRE SALE	ICE 923 1482
+substantial might lesser construct slaying heavy crossbow	1450	CARPET DYE BLOWOUT	ICE 923 1482
+substantial might magic spellbook	1500	Always On Sale	COR POR 1553 1439
+substantial power magic spellbook	5000	Loots!	COR POR 1553 1439
+substantial surpassingly melodious harp of beastial enticement	10000	**MAGIC ITEMS**	ICE 923 1482
+sucker	40000	The Scrambler	KIPLET 3519 365
+summoner's tome	58888	cheap book	ARTHUR 863 1408
+supremely accurate black staff	7500	NICE VENDOR SHOP	COR POR 1553 1439
+supremely accurate bow	3000	MAPS, ASPECT @ CHEAP	MERLIN 1621 3020
+supremely accurate force shepherd's crook	75000	CHEAP LOOT PREV	COR POR 1553 1439
+supremely accurate heavy crossbow	7500	Accuracy Weapons	SORE 4039 472
+supremely accurate quarter staff	7500	Accuracy Weapons	SORE 4039 472
+supremely accurate ruin viking sword	30000	**MAGIC ITEMS**	ICE 923 1482
+supremely accurate two-handed axe	20000	**MAGIC ITEMS**	ICE 923 1482
+supremely melodious harp	5500	a regal pack horse	GATER 3737 672
+supremely melodious harp of lesser elemental enticement	12000	a regal pack horse	GATER 3737 672
+supremely melodious harp of nature enticement	12000	a regal pack horse	GATER 3737 672
+supremely potent magic spellbook	25000	a regal pack horse	GATER 3737 672
+supremely potent ruin magic spellbook	25000	Zlodziej ZeSzczecina	MERLIN 1621 3020
+surpassingly accurate crossbow	1500	Always On Sale	COR POR 1553 1439
+surpassingly accurate martial manual	20000	**MAGIC ITEMS**	ICE 923 1482
+surpassingly melodious harp	1500	Always On Sale	COR POR 1553 1439
+surpassingly melodious harp of lesser undead enticement	975	CARPET DYE BLOWOUT	ICE 923 1482
+surpassingly potent construct slaying magic spellbook	5000	Aspekt $ SS $ Rares	NOGATE1866 1878
+surpassingly potent lesser humanoid slaying magic spellbook	15000	Fresh SQzD Lewt	GATER 3737 672
+surpassingly potent magic spellbook	1500	Always On Sale	COR POR 1553 1439
+surpassingly potent might magic spellbook	1500	Always On Sale	COR POR 1553 1439
+surpassingly potent ruin greater elemental slaying magic spellbook	7500	Aspekt $ SS $ Rares	NOGATE1866 1878
+tailoring skill mastery scroll	7000	MAPS, ASPECT @ CHEAP	MERLIN 1621 3020
+taming bestiary	65000	Scribe and more	ARTHUR 863 1408
+taste id skill mastery scroll	9000	HSB Walmart	FLAIRTAMER 2015 2127
+Terran	8000	a regal pack llama	GATER 3737 672
+The Forgotten King	3000	7s Stash	KIPLET 3519 365
+tinkering skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+tracking skill mastery scroll	7000	MAPS, ASPECT @ CHEAP	MERLIN 1621 3020
+trap detonator	245	RESOURCE KING	KIPLET 3519 365
+valewood board	500	Cheap Carpentry	KRISH 1564 1617
+valewood lumber map	20000	CHEAP LOOT PREV	COR POR 1553 1439
+vanquishing crossbow	10000	Anoki	THEVENDORBOT 3974 1183
+vanquishing magic spellbook	2999	Annabel	COR POR 1553 1439
+vanquishing martial manual	15000	Check it out	ICE 923 1482
+vanquishing two-handed axe	13000	Zlodziej ZeSzczecina	MERLIN 1621 3020
+verehide commodity	192500	Leather Commodities	SORE 4039 472
+verehide skinning map	3000	JMART DISCOUNT GOODS	FLAIRTAMER 2015 2127
+verewood board	200	Materials	NOGATE1866 1878
+veterinary skill mastery scroll	7000	CHEAP LOOT PREV	COR POR 1553 1439
+Void Aspect Core	18333	Random Shiats	THEVENDORBOT 3974 1183
+Void Aspect Distillation	16000	Extracts	SORE 4039 472
+Void Aspect Extract	11000	Fresh SQzD Lewt	GATER 3737 672
+Water Aspect Core	4800	Cores and More!!!	KRISH 1564 1617
+Water Aspect Distillation	15000	ReignInBlood	KRISH 1564 1617
+Water Aspect Extract	8000	CORES / RARES / ALL	GATER 3737 672
+wilderness carpet dye	3000	11/1 STOCKED	KIPLET 3519 365
+wilderness cloth	12000	Cores-SS	KRISH 1564 1617
+wilderness cloth shoes	80000	Charming Vendor!	ICE 923 1482
+wilderness shield and quiver dye: 5	15000	Crazy German	ICE 923 1482
+Winterlands 2020	20000	Marcia	ICE 923 1482
+wizard's grimoire	58888	cheap book	ARTHUR 863 1408
